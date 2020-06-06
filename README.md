@@ -1,4 +1,4 @@
-# **GUÍA RÁPIDA DE TailwindCSS**
+# **Guía Rápida de TailwindCSS**
 
 [TOC]
 
