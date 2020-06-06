@@ -10,9 +10,9 @@ Para usar tailwindcss en nuestro proyecto tenemos dos maneras de incluirlo:
 
 
 
-\1.   A través de un CDN. ( [](https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css))
+1.   A través de un CDN. ( [Link CDN](https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css))
 
-\2.   Instalando tailwindcss como un módulo de node. 
+2.   Instalando tailwindcss como un módulo de node. 
 
  
 
@@ -46,7 +46,7 @@ Siguiendo dicha recomendación instalaremos tailwindcss como un módulo de node 
 
 **Nota:**
 
-![](C:\Users\Invitados_\Downloads\oie_transparent(1).png)
+<img src="https://github.com/lh536/Guia_de_TailwindCSS_ES/blob/master/sources/primera_nota.png" width="700">
 
 ------
 
@@ -108,7 +108,7 @@ A continuación veremos algunos ejemplos prácticos para que pruebes algunas car
 
 **Nota:**
 
-![oie_transparent(2)](C:\Users\Invitados_\Downloads\oie_transparent(2).png)
+<img src="https://github.com/lh536/Guia_de_TailwindCSS_ES/blob/master/sources/segunda_nota.png" width="700">
 
 
 
@@ -122,7 +122,7 @@ npx tailwindcss init
 
 El anterior comando crea el siguiente fichero tailwind-config.js:
 
-![configtail](C:\Users\Invitados_\Documents\Rodrigo\configtail.png)
+<img src="https://github.com/lh536/Guia_de_TailwindCSS_ES/blob/master/sources/tailwindconfig.png" width="700">
 
 
 
@@ -152,7 +152,7 @@ En **plugins** tendremos la capacidad de inyectar código css de terceros o nues
 
 Y así es como luce un fichero de configuración personalizada de tailwindcss, recuerda que tanto theme como variants y plugins son opcionales:
 
-![exampletail](C:\Users\Invitados_\Documents\Rodrigo\exampletail.png)
+<img src="https://github.com/lh536/Guia_de_TailwindCSS_ES/blob/master/sources/exampletail.png" width="700">
 
 ------
 
