@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [**Guía Rápida de TailwindCSS**](#gu%C3%ADa-r%C3%A1pida-de-tailwindcss)
+        - [<u>**INSTALACIÓN**</u>](#uinstalaci%C3%B3nu)
+        - [<u>**EJEMPLOS PRÁCTICOS**</u>](#uejemplos-pr%C3%A1cticosu)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # **Guía Rápida de TailwindCSS**
 
 [TOC]
