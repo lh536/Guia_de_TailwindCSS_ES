@@ -1,8 +1,21 @@
 # **Guía Rápida de TailwindCSS**
 
-[TOC]
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-##### <u>**INSTALACIÓN**</u>
+### **Tabla de Contenido**  *generada with [DocToc](https://github.com/thlorenz/doctoc)*
+
+* [**Guía Rápida de TailwindCSS**](#gu%C3%ADa-r%C3%A1pida-de-tailwindcss)
+* [<u>**Instalación**</u>](#instalaci%C3%B3n)
+* [<u>**Ejemplos prácticos**</u>](#ejemplos-pr%C3%A1cticos)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+------
+
+
+
+#### <u>**INSTALACIÓN**</u>
 
  
 
@@ -158,5 +171,5 @@ Y así es como luce un fichero de configuración personalizada de tailwindcss, r
 
 
 
-##### <u>**EJEMPLOS PRÁCTICOS**</u>
+#### <u>**EJEMPLOS PRÁCTICOS**</u>
 
